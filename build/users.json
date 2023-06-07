@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "nationality": "USA",
+      "phoneNumber": "123456789",
+      "lastMonthBill": "$100",
+      "address": "123 Main St",
+      "services": 2,
+      "age": 30
+    },
+    {
+      "id": 2,
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "nationality": "Canada",
+      "phoneNumber": "987654321",
+      "lastMonthBill": "$150",
+      "address": "456 Elm St",
+      "services": 3,
+      "age": 42
+    },
+    {
+      "id": 3,
+      "firstName": "Michael",
+      "lastName": "Johnson",
+      "nationality": "USA",
+      "phoneNumber": "555123456",
+      "lastMonthBill": "$80",
+      "address": "789 Oak Ave",
+      "services": 1,
+      "age": 25
+    },
+    {
+      "id": 4,
+      "firstName": "Emma",
+      "lastName": "Brown",
+      "nationality": "UK",
+      "phoneNumber": "123098765",
+      "lastMonthBill": "$120",
+      "address": "321 Pine St",
+      "services": 4,
+      "age": 37
+    },
+    {
+      "id": 5,
+      "firstName": "Alexander",
+      "lastName": "Garcia",
+      "nationality": "Spain",
+      "phoneNumber": "987654321",
+      "lastMonthBill": "$90",
+      "address": "567 Cedar Rd",
+      "services": 2,
+      "age": 29
+    },
+    {
+      "id": 6,
+      "firstName": "Sophia",
+      "lastName": "Lee",
+      "nationality": "South Korea",
+      "phoneNumber": "123456789",
+      "lastMonthBill": "$70",
+      "address": "890 Birch Ln",
+      "services": 1,
+      "age": 31
+    },
+    {
+      "id": 7,
+      "firstName": "Liam",
+      "lastName": "Lopez",
+      "nationality": "USA",
+      "phoneNumber": "555123456",
+      "lastMonthBill": "$110",
+      "address": "987 Elm St",
+      "services": 3,
+      "age": 45
+    },
+    {
+      "id": 8,
+      "firstName": "Olivia",
+      "lastName": "Gonzalez",
+      "nationality": "Mexico",
+      "phoneNumber": "123098765",
+      "lastMonthBill": "$130",
+      "address": "654 Oak Ave",
+      "services": 2,
+      "age": 33
+    },
+    {
+      "id": 9,
+      "firstName": "Noah",
+      "lastName": "Taylor",
+      "nationality": "Australia",
+      "phoneNumber": "987654321",
+      "lastMonthBill": "$95",
+      "address": "321 Pine St",
+      "services": 2,
+      "age": 27
+    },
+    {
+      "id": 10,
+      "firstName": "Ava",
+      "lastName": "Kim",
+      "nationality": "South Korea",
+      "phoneNumber": "123456789",
+      "lastMonthBill": "$75",
+      "address": "567 Cedar Rd",
+      "services": 1,
+      "age": 29
+    },
+    {
+      "id": 11,
+      "firstName": "William",
+      "lastName": "Ramos",
+      "nationality": "USA",
+      "phoneNumber": "555123456",
+      "lastMonthBill": "$105",
+      "address": "890 Birch Ln",
+      "services": 3,
+      "age": 41
+    },
+    {
+      "id": 12,
+      "firstName": "Sofia",
+      "lastName": "Chen",
+      "nationality": "China",
+      "phoneNumber": "123098765",
+      "lastMonthBill": "$140",
+      "address": "654 Oak Ave",
+      "services": 2,
+      "age": 35
+    },
+    {
+      "id": 13,
+      "firstName": "Lucas",
+      "lastName": "Wang",
+      "nationality": "USA",
+      "phoneNumber": "987654321",
+      "lastMonthBill": "$85",
+      "address": "321 Pine St",
+      "services": 1,
+      "age": 28
+    },
+    {
+      "id": 14,
+      "firstName": "Mia",
+      "lastName": "Nguyen",
+      "nationality": "Vietnam",
+      "phoneNumber": "123456789",
+      "lastMonthBill": "$65",
+      "address": "567 Cedar Rd",
+      "services": 1,
+      "age": 30
+    },
+    {
+      "id": 15,
+      "firstName": "Henry",
+      "lastName": "Gomez",
+      "nationality": "USA",
+      "phoneNumber": "555123456",
+      "lastMonthBill": "$95",
+      "address": "890 Birch Ln",
+      "services": 2,
+      "age": 39
+    },
+    {
+      "id": 16,
+      "firstName": "Charlotte",
+      "lastName": "Kumar",
+      "nationality": "India",
+      "phoneNumber": "123098765",
+      "lastMonthBill": "$115",
+      "address": "654 Oak Ave",
+      "services": 3,
+      "age": 34
+    },
+    {
+      "id": 17,
+      "firstName": "Benjamin",
+      "lastName": "Ali",
+      "nationality": "Egypt",
+      "phoneNumber": "987654321",
+      "lastMonthBill": "$90",
+      "address": "321 Pine St",
+      "services": 2,
+      "age": 32
+    },
+    {
+      "id": 18,
+      "firstName": "Emily",
+      "lastName": "Rodriguez",
+      "nationality": "USA",
+      "phoneNumber": "123456789",
+      "lastMonthBill": "$70",
+      "address": "567 Cedar Rd",
+      "services": 1,
+      "age": 26
+    },
+    {
+      "id": 19,
+      "firstName": "Daniel",
+      "lastName": "Yamamoto",
+      "nationality": "Japan",
+      "phoneNumber": "555123456",
+      "lastMonthBill": "$100",
+      "address": "890 Birch Ln",
+      "services": 3,
+      "age": 43
+    },
+    {
+      "id": 20,
+      "firstName": "Luna",
+      "lastName": "Martinez",
+      "nationality": "Mexico",
+      "phoneNumber": "123098765",
+      "lastMonthBill": "$120",
+      "address": "654 Oak Ave",
+      "services": 2,
+      "age": 36
+    }
+  ]
+  
