@@ -101,14 +101,12 @@ class UserTable extends React.Component {
             },
         ];
 
-        // Additional info columns for the modal
         const additionalInfoColumns = [
             { title: 'Address', field: 'address' },
             { title: '# of Services Subscribed', field: 'services' },
             { title: 'Age', field: 'age' },
         ];
 
-        // Handle row click to open modal
         const handleRowClick = (event, rowData) => {
             if (
                 event.target.tagName.toLowerCase() === 'button' ||
@@ -120,7 +118,6 @@ class UserTable extends React.Component {
             this.setState({ selectedUser: rowData, openModal: true })
         };
 
-        // Close modal
         const handleCloseModal = () => {
             this.setState({ openModal: false })
         };
@@ -173,10 +170,6 @@ class UserTable extends React.Component {
                                 ],
                             }} />
                     </Grid>
-                    {/* <Grid item xs={12} sm={6}>
-                        <h2>Chart 2: Calls</h2>
-                        <Bar data={chart2Data} />
-                    </Grid> */}
                 </Grid>
             </>
         );

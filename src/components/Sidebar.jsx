@@ -41,14 +41,13 @@ class ResponsiveDrawer extends React.Component {
           sx={{ width: { sm: drawerWidth }, flexShrink: { sm: 0 } }}
           aria-label="mailbox folders"
         >
-          {/* The implementation can be swapped with js to avoid SEO duplication of links. */}
           <Drawer
             container={container}
             variant="temporary"
             open={mobileOpen}
             onClose={this.handleDrawerToggle}
             ModalProps={{
-              keepMounted: true, // Better open performance on mobile.
+              keepMounted: true, 
             }}
             sx={{
               display: { xs: 'block', sm: 'none' },
@@ -70,7 +69,7 @@ class ResponsiveDrawer extends React.Component {
         </Box>
         <Box
           component="main"
-          sx={{ flexGrow: 1, p: 2, width: { sm: `calc(100% - ${drawerWidth}px)` } }}
+          sx={{ flexGrow: 1, p: 2, width: "100%" }}
         >
           <Toolbar />
           {children}

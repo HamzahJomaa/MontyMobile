@@ -5,6 +5,7 @@ import Toolbar from '@mui/material/Toolbar';
 import IconButton from '@mui/material/IconButton';
 import Typography from '@mui/material/Typography';
 import MenuIcon from '@mui/icons-material/Menu';
+import { connect } from 'react-redux';
 
 
 class SearchAppBar extends React.Component {
@@ -27,14 +28,18 @@ class SearchAppBar extends React.Component {
                     >
                         <MenuIcon />
                     </IconButton>
-                    <Typography variant="h6" noWrap component="div">
-                        Responsive drawer
-                    </Typography>
+                    
                 </Toolbar>
             </AppBar>
         );
     }
 }
 
+const mapStateToProps = (state) => {
+    return {
+        email: state?.auth?.user?.email,
+    };
+};
 
-export default SearchAppBar
+export default connect(mapStateToProps)(SearchAppBar);
+

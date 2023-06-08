@@ -15,13 +15,11 @@ class App extends React.Component {
     if (authenticated) {
       return (
         <Sidebar>
-          <Router>
+          <Router >
             <Routes>
               <Route path="/" element={<Dashboard />} />
               <Route path="/users" element={<UsersPage />} />
               <Route path="/form" element={<CrudPage />} />
-
-              {/* Add other private routes */}
             </Routes>
           </Router>
         </Sidebar>
@@ -40,7 +38,6 @@ class App extends React.Component {
 }
 
 
-// Map Redux state to component props
 const mapStateToProps = (state) => {
   return {
     authenticated: state?.auth?.authenticated,
@@ -48,7 +45,6 @@ const mapStateToProps = (state) => {
   };
 };
 
-// Connect the component to Redux store
 export default connect(mapStateToProps)(App);
 
 

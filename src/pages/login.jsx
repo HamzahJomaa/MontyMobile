@@ -126,7 +126,6 @@ class SignInPage extends React.Component {
 
 
 
-// Map Redux state to component props
 const mapStateToProps = (state) => {
   return {
     authenticated: state?.auth?.authenticated,
@@ -134,10 +133,8 @@ const mapStateToProps = (state) => {
   };
 };
 
-// Map Redux actions to component props
 const mapDispatchToProps = {
   signIn: actions.signIn,
 };
 
-// Connect the component to Redux store
 export default connect(mapStateToProps, mapDispatchToProps)(SignInPage);

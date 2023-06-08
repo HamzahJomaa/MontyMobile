@@ -6,9 +6,6 @@ import ListItemButton from '@mui/material/ListItemButton';
 import ListItemIcon from '@mui/material/ListItemIcon';
 import ListItemText from '@mui/material/ListItemText';
 import MailIcon from '@mui/icons-material/Mail';
-import MenuIcon from '@mui/icons-material/Menu';
-import PropTypes from 'prop-types';
-import AppBar from '@mui/material/AppBar';
 import Divider from '@mui/material/Divider';
 import Toolbar from '@mui/material/Toolbar';
 
