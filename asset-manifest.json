@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/MontyMobile/static/css/main.bc1dca3e.css",
-    "main.js": "/MontyMobile/static/js/main.540e740a.js",
+    "main.js": "/MontyMobile/static/js/main.1de3738b.js",
     "static/js/498.dfeb4609.chunk.js": "/MontyMobile/static/js/498.dfeb4609.chunk.js",
     "static/js/703.3fbed1f9.chunk.js": "/MontyMobile/static/js/703.3fbed1f9.chunk.js",
     "static/js/598.99907b22.chunk.js": "/MontyMobile/static/js/598.99907b22.chunk.js",
     "index.html": "/MontyMobile/index.html",
     "main.bc1dca3e.css.map": "/MontyMobile/static/css/main.bc1dca3e.css.map",
-    "main.540e740a.js.map": "/MontyMobile/static/js/main.540e740a.js.map",
+    "main.1de3738b.js.map": "/MontyMobile/static/js/main.1de3738b.js.map",
     "498.dfeb4609.chunk.js.map": "/MontyMobile/static/js/498.dfeb4609.chunk.js.map",
     "703.3fbed1f9.chunk.js.map": "/MontyMobile/static/js/703.3fbed1f9.chunk.js.map",
     "598.99907b22.chunk.js.map": "/MontyMobile/static/js/598.99907b22.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bc1dca3e.css",
-    "static/js/main.540e740a.js"
+    "static/js/main.1de3738b.js"
   ]
 }
